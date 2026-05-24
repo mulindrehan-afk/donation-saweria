@@ -16,7 +16,7 @@ let totalDonasi = 0
 let lastRawData = null
 
 // URL Webhook Discord milikmu
-const DISCORD_WEBHOOK_URL = "https://discordapp.com/api/webhooks/1506799128041230367/ZmiIeJX-jQw7EbScEFeGXD28jH_lb_Y1OfSq28TE4NQhkpwLgRfQbRU9HYV5X3Wf9Hf8"
+const DISCORD_WEBHOOK_URL = "https://discordapp.com/api/webhooks/1508078816453591060/3jZ_M_p7zAvJHh9k_F2X6nPRgBf6POUsJvd8YZo3bVrNMxvnePXs89r6ft_9kyEuzM9j"
 
 // Fungsi untuk mengirim notifikasi ke Discord
 async function sendToDiscord(nama, jumlah, pesan, robloxUsername) {
